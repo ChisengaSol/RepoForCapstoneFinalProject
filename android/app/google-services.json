@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275358699918",
+    "project_id": "finalyearcapstonedb",
+    "storage_bucket": "finalyearcapstonedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275358699918:android:4a2e2728301a39851f94df",
+        "android_client_info": {
+          "package_name": "com.example.CapstoneFinalProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275358699918-0n2jgd5hmu2p3aj1e7qe0lfpbieldqda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS6rUFgjC--ojCWagZCrqFfGoS4zWJ95k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275358699918-0n2jgd5hmu2p3aj1e7qe0lfpbieldqda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
